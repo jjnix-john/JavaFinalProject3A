@@ -1,6 +1,8 @@
-MCQ|What color is the sky on a clear day?|A|Blue|Green|Red|Yellow
-TF|The sun rises in the morning.|True
-MCQ|How many legs does a dog have?|B|2|4|6|8
-MCQ|Which of these is a fruit?|C|Carrot|Potato|Apple|Broccoli
-TF|Fish live in the water.|True
-MCQ|What is 2 + 2?|D|1|2|3|4
+MCQ|What is the capital of France?|A|Paris|London|Berlin|Madrid
+MCQ|Which planet is known as the Red Planet?|B|Venus|Mars|Jupiter|Saturn
+TF|The Great Wall of China is visible from space.|False
+MCQ|Who wrote 'Romeo and Juliet'?|C|Charles Dickens|Mark Twain|William Shakespeare|Jane Austen
+TF|Java is a programming language.|True
+MCQ|What is 5 x 5?|D|10|20|15|25
+MCQ|Which ocean is the largest?|A|Pacific|Atlantic|Indian|Arctic
+TF|The human body has 4 lungs.|False
